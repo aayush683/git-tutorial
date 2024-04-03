@@ -1,2 +1,2 @@
 # git-tutorial
-This is Git Repository demo
+This is Git Repository demo.
